@@ -1,0 +1,1 @@
+<view class="box" bind:__l="__l"><textarea placeholder-style="color:#999999" placeholder="回忆起家人的故事了吗？快来写一写"></textarea><view class="name">回忆对象:哥哥</view><button style="width:100%;" type="primary" data-event-opts="{{[['tap',[['fabu']]]]}}" bindtap="__e">发布</button></view>
